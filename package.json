@@ -1,0 +1,8 @@
+{
+  "name": "com.blueexedra.criadxsoundplayer",
+  "version": "1.0.0",
+  "displayName": "CRI ADX Sound Player",
+  "description": "CRI ADX extension",
+  "unity": "2020.3",
+  "license": "MIT"
+}

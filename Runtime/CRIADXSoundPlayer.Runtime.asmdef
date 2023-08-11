@@ -1,0 +1,17 @@
+{
+    "name": "CRIADXSoundPlayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:800597811bcc5d848b15e12807d6de45",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
